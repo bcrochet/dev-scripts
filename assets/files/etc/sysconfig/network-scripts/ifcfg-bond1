@@ -1,0 +1,4 @@
+DEVICE=bond1
+ONBOOT=yes
+BOOTPROTO=none
+BONDING_OPTS="mode=4 miimon=100"

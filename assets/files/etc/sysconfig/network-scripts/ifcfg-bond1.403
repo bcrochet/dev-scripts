@@ -1,0 +1,4 @@
+DEVICE=bond1.403
+BOOTPROTO=dhcp
+ONBOOT=yes
+VLAN=yes

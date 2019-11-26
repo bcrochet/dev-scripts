@@ -1,0 +1,5 @@
+DEVICE=ens3f0
+BOOTPROTO=none
+ONBOOT=yes
+MASTER=bond1
+SLAVE=yes
